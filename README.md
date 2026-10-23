@@ -1,70 +1,66 @@
-<h1 align="center">Hi 👋, I'm Abhinand S</h1>
+<h1 align="center">ABHINAND S</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | Business Analytics Enthusiast</h3>
+<h3 align="center">Data Analytics | Business Intelligence | Data Visualization</h3>
 
 <p align="center">
-  Passionate about transforming data into meaningful insights and supporting better business decisions through analytics.
+  Transforming data into actionable insights to support strategic and data-driven business decisions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Data_Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-Data_Management-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Data_Analytics-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## Professional Profile
 
-* 🎓 MBA graduate specializing in Business Analytics and Digital Marketing.
-* 📊 Interested in Data Analytics, Business Intelligence, and Data Visualization.
-* 💻 Skilled in Excel, Power BI, SQL, Python, and Tableau.
-* 📈 Enjoy exploring data, identifying trends, and creating interactive dashboards.
-* 🚀 Always learning new technologies and improving my analytical skills.
-* 🎯 Aspiring to build a career in Data Analytics and Business Intelligence.
+I am an MBA graduate specializing in Business Analytics and Digital Marketing, with a strong interest in data analytics, business intelligence, and data-driven problem-solving.
 
----
+My focus is on analyzing data, identifying meaningful patterns, and presenting insights through effective visualizations and interactive dashboards. I enjoy combining analytical thinking with business knowledge to understand performance, uncover trends, and support informed decision-making.
 
-### 🛠️ Technical Skills
+I am committed to continuous learning and developing the technical and analytical skills required to solve real-world business problems.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
+## Technical Expertise
 
----
+* **Data Analysis:** Microsoft Excel, SQL, Python
+* **Business Intelligence:** Microsoft Power BI
+* **Data Visualization:** Power BI, Tableau, Excel
+* **Analytics:** Data Cleaning, Exploratory Data Analysis, Trend Analysis
+* **Business Skills:** Business Analysis, Problem-Solving, Critical Thinking
 
-### 🎓 Education
+## Education
 
-* **Master of Business Administration (MBA)**
-  Business Analytics and Digital Marketing | 2024–2026
+**Master of Business Administration (MBA)**
+Specialization in Business Analytics and Digital Marketing | 2024–2026
 
-* **Bachelor of Commerce (B.Com)**
-  Finance | 2021–2024
+**Bachelor of Commerce (B.Com)**
+Specialization in Finance | 2021–2024
 
----
+## Certifications
 
-### 📜 Certifications
-
-* Data Analytics with AI
+* Professional Course in Data Analytics with AI
 * Data Analysis with Python — IBM
-* Data Analytics — STED
+* Certificate in Data Analytics — STED
 
----
+## Areas of Interest
 
-### 🌱 Currently Learning
+* Data Analytics and Business Intelligence
+* Dashboard Development and Reporting
+* Business Performance Analysis
+* Data-Driven Decision-Making
+* Business and Market Research
 
-* Advanced SQL and Data Analysis
-* Python for Data Analytics
-* Power BI Dashboard Development
-* Business Intelligence and Data Visualization
-
----
-
-### 🤝 Connect With Me
+## Let's Connect
 
 <p align="left">
   <a href="mailto:abhinand1017@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -72,9 +68,5 @@
 ---
 
 <p align="center">
-  <i>"Turning data into insights, and insights into impact."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Driven by curiosity. Focused on insights. Committed to continuous growth.</i>
 </p>
